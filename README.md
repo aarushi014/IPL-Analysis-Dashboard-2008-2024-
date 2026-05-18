@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **IPL Analysis Dashboard** is an interactive and dynamic Power BI dashboard designed to analyze Indian Premier League (IPL) performance statistics for the **2023 season**.
+The **IPL Analysis Dashboard** is an interactive and dynamic Power BI dashboard designed to analyze Indian Premier League (IPL) performance statistics for the years **2008-2024**.
 
 The dashboard provides insights into:
 
@@ -143,7 +143,9 @@ Possible future improvements include:
 
 ---
 
-## Snapshot
+## Snapshot 
+<img width="1015" height="558" alt="IPL Analysis SS" src="https://github.com/user-attachments/assets/c342a2c9-db8d-450c-85e3-8576d72b46d8" />
+
 
 The dashboard includes:
 
@@ -157,4 +159,5 @@ The dashboard includes:
 ## Author
 
 **Aarushi Singh**
+
 Power BI & Data Analytics Enthusiast
